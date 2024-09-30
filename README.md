@@ -1,4 +1,4 @@
-<img width="437" alt="image" src="https://github.com/user-attachments/assets/cb4592a8-8408-4130-ae9d-21b4a17ad85d"><img width="437" alt="image" src="https://github.com/user-attachments/assets/ebacdfa7-4ce4-4d1e-834e-d3c722b64e51">Step1:
+Step1:
 x509.genkey is located at /usr/src/linux/certs/x509.genkey.
 [ req ]
 default_bits = 4096
